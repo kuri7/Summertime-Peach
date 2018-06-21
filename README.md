@@ -7,5 +7,5 @@ No one in particular, it is just a handy way for me to work on my progress with 
 ## Why is this on GitHub?
 Mainly because GitHub is a good way to sync data and work on projects even when you're not on your main workstation. I don't have the pretention to say this repository will be useful to anyone, but if people want to, they at least have access to the information in there.
 
-## You're probably a scrub, who are you to pretend to know the game?
+## You're probably a scrub, who are you to pretend you know the game?
 I don't.
